@@ -1,0 +1,5 @@
+streamlit
+pandas
+# Must match the version used to serialize customer_churn_bundle.joblib.
+scikit-learn==1.6.1
+joblib
